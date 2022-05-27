@@ -2,5 +2,5 @@
 
 int main() {
 	printf("Hello World!\n");
-	printf("Some String: %s\n", "[i'm learning cpp]"));
+	printf("Some String: %s\n", "[i'm learning cpp]");
 }
